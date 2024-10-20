@@ -1,7 +1,7 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia update para pull rebae
+Este proyecto se encarga de manejar los planes de la liga de la justicia update para pull
 
 
-## Notas
-readme update para pull rebase
+## Notas x6
+readme update pull jajaja
